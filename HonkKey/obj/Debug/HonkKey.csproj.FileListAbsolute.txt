@@ -1,0 +1,9 @@
+D:\HonkKey\HonkKey\obj\Debug\HonkKey.csproj.AssemblyReference.cache
+D:\HonkKey\HonkKey\obj\Debug\HonkKey.AddCommandForm.resources
+D:\HonkKey\HonkKey\obj\Debug\HonkKey.MainForm.resources
+D:\HonkKey\HonkKey\obj\Debug\HonkKey.csproj.GenerateResource.cache
+D:\HonkKey\HonkKey\obj\Debug\HonkKey.csproj.CoreCompileInputs.cache
+D:\HonkKey\HonkKey\bin\Debug\HonkKey.exe
+D:\HonkKey\HonkKey\bin\Debug\HonkKey.pdb
+D:\HonkKey\HonkKey\obj\Debug\HonkKey.exe
+D:\HonkKey\HonkKey\obj\Debug\HonkKey.pdb
